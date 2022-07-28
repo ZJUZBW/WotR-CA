@@ -2,11 +2,27 @@
 
 # 正义之怒：肉搏职业数据流测评
 
-## **友情链接** ---[正义之怒主角BD收录](https://github.com/ZJUZBW/Wotr-BD-LR)
+**制作者：aaathl  or 唯行**
 
-## **友情链接** ---[正义之怒队友BD收录](https://github.com/ZJUZBW/-Wotr-BD-)
+正义之怒&拥王者的交流群：一群487092507、~~二群：972953691（**推荐**，二群聊游戏比较多）~~、2.5群：191268357
 
-正义之怒&拥王者的交流群：一群487092507、二群：972953691（**推荐**，二群聊游戏比较多）
+持续更新中—— 有问题或补充可以在群里@我
+
+**友情链接** ---[正义之怒主角BD收录](https://github.com/ZJUZBW/Wotr-BD-LR)
+
+**友情链接** ---[正义之怒物理职业测评](https://github.com/ZJUZBW/WotR-CA)
+
+**友情链接** ---[正义之怒队友BD收录](https://github.com/ZJUZBW/-Wotr-BD-)
+
+**友情链接** ---[拥王者&正义之怒全专长测评](https://github.com/ZJUZBW/Wotr-AofF)
+
+**友情链接**（有延迟，不是最新的）：https://pan.baidu.com/s/15jx_JzQDWn4_kcxlLRdegg 提取码：wotr
+
+## 目录（网页显示不了就到网盘下载）
+
+[TOC]
+
+
 
 ## 测评的前提条件
 
